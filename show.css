@@ -34,7 +34,7 @@ body{background-color:#eee;font-size:12px;color:#666;}
 .plus_box .plus_l ul li span.xing_c{background-position: 0 -72px;}
 .plus_box .plus_l ul li span.xing_d{background-position: 0 -96px;}
 .plus_box .plus_l ul li span.xing_e{background-position: 0 -4px;}
-.plus_box .plus_r{width:300px;height:300px;margin:7px 0px;padding:2px;overflow:hidden;position:absolute;top:-7px;right:5px;background:#fff;padding:10px;}
+.plus_box .plus_r{width:240px;height:230px;margin:7px 0px;padding:2px;overflow:hidden;position:absolute;top:-7px;right:5px;background:#fff;padding:10px;}
 .plus_box .plus_r .diybox{border:1px solid #eee;height:100%;width:100%;overflow:hidden;border-radius:4px}
 .plus_box .plus_r img{border-radius:4px;}
 .plus_box .plus_r .diybox:hover{border:1px solid #00aff0;}
